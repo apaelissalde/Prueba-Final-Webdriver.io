@@ -1,0 +1,23 @@
+1- Posibles casos de prueba:
+-Verificar que funciona la barra para buscar un producto
+-Presionando el logo te redirige a la pagina de inicio
+-Funciona el hover de woman, dresses y tshirts
+-Funciona clickear el boton de woman, desses y tshirts
+-Funciona el boton de sign in
+-Funciona el boton de contact us 
+-Verificar que funciona la funcion para agregar al carrito
+-Click sale 70%
+-Click best sellers
+-Hover over a product and click more button
+-Hover over a product and click quick view 
+-Click name of the product
+-Click top trends, mens coats and jackets, womans coats and jackets
+
+
+2- Los que podrían ser automatizados en menos de 4 horas son:
+
+-Verificar que funciona la barra para buscar un producto
+-Presionando el logo te redirige a la pagina de inicio
+-Funciona el hover
+-Funciona el boton de signin
+-Funciona el boton de contact us
